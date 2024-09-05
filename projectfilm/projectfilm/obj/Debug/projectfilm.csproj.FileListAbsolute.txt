@@ -1,0 +1,12 @@
+C:\Users\Asus\source\repos\projectfilm\projectfilm\bin\Debug\projectfilm.exe.config
+C:\Users\Asus\source\repos\projectfilm\projectfilm\bin\Debug\projectfilm.exe
+C:\Users\Asus\source\repos\projectfilm\projectfilm\bin\Debug\projectfilm.pdb
+C:\Users\Asus\source\repos\projectfilm\projectfilm\obj\Debug\projectfilm.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\projectfilm\projectfilm\obj\Debug\projectfilm.Properties.Resources.resources
+C:\Users\Asus\source\repos\projectfilm\projectfilm\obj\Debug\projectfilm.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\projectfilm\projectfilm\obj\Debug\projectfilm.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\projectfilm\projectfilm\obj\Debug\projectfilm.exe
+C:\Users\Asus\source\repos\projectfilm\projectfilm\obj\Debug\projectfilm.pdb
+C:\Users\Asus\source\repos\projectfilm\projectfilm\obj\Debug\projectfilm.FilmlerListesi.resources
+C:\Users\Asus\source\repos\projectfilm\projectfilm\obj\Debug\projectfilm.Form2.resources
+C:\Users\Asus\source\repos\projectfilm\projectfilm\obj\Debug\projectfilm.Login.resources
